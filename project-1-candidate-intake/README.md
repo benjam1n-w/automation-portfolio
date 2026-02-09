@@ -21,7 +21,7 @@ I built a Power Automate workflow that:
 ## Design Decisions
 
 The workflow was designed to prioritize reliability and simplicity. 
-I structured the automation to trigger only on vendor emails to avoid false activations. 
+I structured the automation to trigger only on vendor emails with specific format to avoid false activations. 
 Data extraction was standardized to ensure consistent Excel formatting. 
 The flow was built with scalability in mind so additional data fields can be added in the future.
 
