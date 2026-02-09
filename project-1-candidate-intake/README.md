@@ -18,6 +18,13 @@ I built a Power Automate workflow that:
 - Standardizes the data entry format
 - Eliminates the need for manual copying
 
+## Design Decisions
+
+The workflow was designed to prioritize reliability and simplicity. 
+I structured the automation to trigger only on vendor emails to avoid false activations. 
+Data extraction was standardized to ensure consistent Excel formatting. 
+The flow was built with scalability in mind so additional data fields can be added in the future.
+
 ## Tools Used
 
 - Microsoft Power Automate
