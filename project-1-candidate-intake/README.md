@@ -33,10 +33,12 @@ The flow was built with scalability in mind so additional data fields can be add
 
 ## Impact
 
-- Reduced manual data entry time
-- Improved consistency of candidate records
-- Minimized risk of human error
-- Streamlined vendor communication workflow
+This automation eliminated approximately 115 hours of manual work annually.
+
+This year alone, the team processed around 2,300 candidates. Manually logging each candidate took about 3 minutes, which would total roughly 115 hours of repetitive administrative work.
+
+Beyond time savings, the automation improved data consistency, reduced human errors, and ensured that no candidate records were missed.
+
 
 ## Workflow Overview
 
