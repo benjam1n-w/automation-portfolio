@@ -42,4 +42,7 @@ Beyond time savings, the automation improved data consistency, reduced human err
 
 ## Workflow Overview
 
-(Screenshots will be added here)
+![Power Automate Flow Overview](screenshots/screen_flow1.png)
+![Power Automate Flow Overview – Part 2](screenshots/screen_flow2.png)
+
+
