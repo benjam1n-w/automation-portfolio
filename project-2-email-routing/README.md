@@ -30,8 +30,8 @@ Power Automate flow that:
 ## Workflow Overview
 
 ### Screenshot of the Flow
-![Flow Overview](screenshots/screen_flow1.png)
-![Flow Overview Part 2](screenshots/screen_flow2.png)
+![Flow Overview](screenshots/project2_screen1.png)
+![Flow Overview Part 2](screenshots/project2_screen2.png)
 
 ### Diagram
 
